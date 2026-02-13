@@ -31,7 +31,6 @@ I’ve worked with Java, Python, React, and cloud platforms through internships 
 ---
 
 ## 🌐 Connect With Me
-📧 **Email:** kasyapgovindu@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasyap-g/)
 
 ---
@@ -60,7 +59,7 @@ I’ve worked with Java, Python, React, and cloud platforms through internships 
 
 ---
 
-## 📈 Kasyap's GitHub Activity Graph
+## 📈 Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=kasyap600&theme=github-compact)
 
 ---
