@@ -31,7 +31,7 @@ I’ve worked with Java, Python, React, and cloud platforms through internships 
 ---
 
 ## 🌐 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-kasyapgovindu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasyapgovindu@gmail.com)  
+[![gmail](https://img.shields.io/badge/gmail-kasyapgovindu%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasyapgovindu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasyap-g/)
 
 ---
